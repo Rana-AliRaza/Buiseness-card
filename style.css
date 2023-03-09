@@ -1,0 +1,25 @@
+.container{
+    width: 400px;
+    margin: 0px auto;
+    display: flex; 
+    padding: 20px;
+    background-color: rgb(252, 242, 242); 
+    justify-content: space-around;
+    text-align: center;
+    border-bottom: 5px solid #d8cefe;
+    color: #2b2839;
+    font-family: Verdana;
+}
+
+img{
+    width: 150px;
+}
+
+.blue-border{
+   
+    
+
+}
+
+
+
